@@ -1,0 +1,9 @@
+D:\7mo EPET.N5 Lucila\Profe Cano\PrimerPrograma\Ejercicio3TP8\Ejercicio3TP8\obj\Debug\Ejercicio3TP8.csproj.AssemblyReference.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\PrimerPrograma\Ejercicio3TP8\Ejercicio3TP8\obj\Debug\Ejercicio3TP8.csproj.CoreCompileInputs.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°8 PROYECTO\Ejercicio3TP8\Ejercicio3TP8\bin\Debug\Ejercicio3TP8.exe.config
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°8 PROYECTO\Ejercicio3TP8\Ejercicio3TP8\bin\Debug\Ejercicio3TP8.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°8 PROYECTO\Ejercicio3TP8\Ejercicio3TP8\bin\Debug\Ejercicio3TP8.pdb
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°8 PROYECTO\Ejercicio3TP8\Ejercicio3TP8\obj\Debug\Ejercicio3TP8.csproj.AssemblyReference.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°8 PROYECTO\Ejercicio3TP8\Ejercicio3TP8\obj\Debug\Ejercicio3TP8.csproj.CoreCompileInputs.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°8 PROYECTO\Ejercicio3TP8\Ejercicio3TP8\obj\Debug\Ejercicio3TP8.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°8 PROYECTO\Ejercicio3TP8\Ejercicio3TP8\obj\Debug\Ejercicio3TP8.pdb

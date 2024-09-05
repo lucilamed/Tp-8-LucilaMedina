@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B08 PROYECTO\\Ejercicio4TP8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B3FE54-D2C5-43A5-B94D-233E76A19E97}|Ejercicio4TP8\\Ejercicio4TP8.csproj|d:\\7mo epet.n5 lucila\\profe cano\\trabajo practico n\u00B08 proyecto\\ejercicio4tp8\\ejercicio4tp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B3FE54-D2C5-43A5-B94D-233E76A19E97}|Ejercicio4TP8\\Ejercicio4TP8.csproj|solutionrelative:ejercicio4tp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B3FE54-D2C5-43A5-B94D-233E76A19E97}|Ejercicio4TP8\\Ejercicio4TP8.csproj|D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B08 PROYECTO\\Ejercicio4TP8\\ejercicio4tp8\\modelo\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B3FE54-D2C5-43A5-B94D-233E76A19E97}|Ejercicio4TP8\\Ejercicio4TP8.csproj|solutionrelative:ejercicio4tp8\\modelo\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B3FE54-D2C5-43A5-B94D-233E76A19E97}|Ejercicio4TP8\\Ejercicio4TP8.csproj|D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B08 PROYECTO\\Ejercicio4TP8\\ejercicio4tp8\\modelo\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B3FE54-D2C5-43A5-B94D-233E76A19E97}|Ejercicio4TP8\\Ejercicio4TP8.csproj|solutionrelative:ejercicio4tp8\\modelo\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiantes.cs",
+              "DocumentMoniker": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B08 PROYECTO\\Ejercicio4TP8\\Ejercicio4TP8\\Modelo\\Estudiantes.cs",
+              "RelativeDocumentMoniker": "Ejercicio4TP8\\Modelo\\Estudiantes.cs",
+              "ToolTip": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B08 PROYECTO\\Ejercicio4TP8\\Ejercicio4TP8\\Modelo\\Estudiantes.cs",
+              "RelativeToolTip": "Ejercicio4TP8\\Modelo\\Estudiantes.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:21:20.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B08 PROYECTO\\Ejercicio4TP8\\Ejercicio4TP8\\Modelo\\Curso.cs",
+              "RelativeDocumentMoniker": "Ejercicio4TP8\\Modelo\\Curso.cs",
+              "ToolTip": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B08 PROYECTO\\Ejercicio4TP8\\Ejercicio4TP8\\Modelo\\Curso.cs",
+              "RelativeToolTip": "Ejercicio4TP8\\Modelo\\Curso.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:20:59.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B08 PROYECTO\\Ejercicio4TP8\\Ejercicio4TP8\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4TP8\\Program.cs",
+              "ToolTip": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B08 PROYECTO\\Ejercicio4TP8\\Ejercicio4TP8\\Program.cs",
+              "RelativeToolTip": "Ejercicio4TP8\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:52:55.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
